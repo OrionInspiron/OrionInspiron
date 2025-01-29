@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I'm a quick learner 
 - 😇 I'm there for the beginners
 - ✌️ I'm based in India and can help you with the programming you learn in school!! (Actually, it's pretty easy u just gotta understand!!)
+-  My dream company is GOOGLE 🔵🔴🟡🟢
 <!---
 OrionInspiron/OrionInspiron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
